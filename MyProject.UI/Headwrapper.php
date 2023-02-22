@@ -3,7 +3,7 @@
 	<div id="header" class="container">
 		<div id="logo">
 
-			<a href="index.php"><img src="images/logo-QA.png" /></a>
+			<a href="../index.php"><img src="images/logo-QA.png" /></a>
 
 		</div>
 		<div id="social">
@@ -25,7 +25,7 @@
 
 	<div id="menu" class="container">
 		<ul>
-			<li><a href="index.php">Homepage</a></li>
+			<li><a href="../index.php">Homepage</a></li>
 			<li><a href="CurrentGoals.php">Current Goals</a></li>
 			<li><a href="ComplitedGoals.php">Complited Goals</a></li>
 			<li><a href="Education.php">Educational Material</a></li>
